@@ -25,7 +25,7 @@ function Wish() {
 
     return (
         <>
-            <h1>Wishlist</h1>
+            <h1 className="color">Wishlist</h1>
 
             {/* <input type="text" onChange={inp} placeholder="Your item"/> */}
             {

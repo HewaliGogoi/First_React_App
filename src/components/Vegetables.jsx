@@ -21,7 +21,7 @@ function Vegetables() {
 
     return (
         <>
-            <h1>Vegetables</h1>
+            <h1 className="color">Vegetables</h1>
             <div>
                 <h2>Tomato - {tomato} Kg</h2>
                 <button onClick={() => Tsub(+1)}>+</button>
